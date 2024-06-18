@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Mpplication</string>
+    <string name="img1">Image1</string>
+    <string name="more" translatable="false">Explore More............</string>
+    <string name="des1">Enjoy the ride on Sri Lankan train,Ella</string>
+    <string name="des2">Take a train ride to discover the splendor of Sri Lanka</string>
+    <string name="des3">Get Started To Explore</string>
+    <string name="des4">Welcome back</string>
+    <string name="des5">William J.S.R</string>
+    <string name="des6">Traveling in Sri Lanka is most enjoyable here.</string>
+    <string name="des7">Popular</string>
+    <string name="des8">Description</string>
+    <string name="des9">See All</string>
+
+    <string name="one">Explore Sri Lanka\'s Ella</string>
+    <string name="two">Start Experiencing Ella</string>
+    <string name="three">Discover Ella\'s Hidden Gems in Sri Lanka</string>
+    <string name="four">Begin Your Sri Lankan Adventure in Ella</string>
+    <string name="five">Unlock the Mysteries of Ella, Sri Lanka</string>
+    <string name="six">Satisfy Your Wanderlust in Ella, Sri Lanka</string>
+    <string name="seven">Find Out More\n</string>
+    <string name="eight">Need Help</string>
+    <string name="ella">The Ella Odyssey Train to Ella is a scenic train journey that
+        traverses through the picturesque landscapes of Sri Lanka. Starting from the bustling city
+        of Colombo, this train ride takes passengers on a mesmerizing voyage through lush green tea
+        plantations, misty mountains, and charming villages, culminating in the charming town of Ella.
+        Along the way, travelers can witness breathtaking views of waterfalls, verdant valleys, and
+        vibrant wildlife. The journey is renowned for its nostalgic charm, offering passengers a glimpse
+        into the rich cultural and natural heritage of Sri Lanka while providing an unforgettable travel
+        experience.</string>
+    <string name="below">Ella Odyssy  👇</string>
+    <string name="skip">skip ⏩</string>
+    <string name="sk">skip     ⏩</string>
+    <string name="forward">➯</string>
+    <string name="forwarding"><![CDATA[>>]]></string>
+</resources>
